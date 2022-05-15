@@ -1,11 +1,11 @@
 # Taxi Service
 ![taxi](taxiPictureForReadMe.jpg)
 ##Contents
-+ [Overview](#Overview) 
-+ [Use cases](#Use cases)
-+ [Used Technologies](#Used Technologies) 
-+ [Project structure](#Project structure)
-+ [Application startup](#Application startup)
++ [Overview](##Overview) 
++ [Use cases](##Use cases)
++ [Used Technologies](##Used Technologies) 
++ [Project structure](##Project structure)
++ [Application startup](##Application startup)
 
 ##Overview
 Taxi service is a web application that can be used to keep a record of taxi drivers and cars. 
